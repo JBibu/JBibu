@@ -24,7 +24,7 @@ Systems administrator learning full-stack development through Web Applications D
 
 ## My langs and tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,aws,google-cloud,terraform,ansible,bash,docker,kubernetes,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,powershell,azure,aws,gcp,openstack,ansible,terraform,docker,kubernetes,grafana,prometheus,nginx,postgres)](https://skillicons.dev)
 
 ## 🧩 GitHub Stats
 
