@@ -1,4 +1,5 @@
-<img src="images/banner.png" width="512"/>
+<p align="center"><img src="images/banner.png" width="512"/></p>
+
 
 <!--
 **JBibu/JBibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
