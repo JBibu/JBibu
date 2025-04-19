@@ -20,3 +20,14 @@ Here are some ideas to get you started:
 
 Systems administrator learning full-stack development through Web Applications Development (DAW) training. I enjoy understanding how infrastructure connects with code. I like simple, stable tools that just work. I use clean configs and practical solutions in my work. When I'm not connecting dev and ops with reliable systems, I'm outside getting fresh air. Always learning, always building.
 
+<a href="https://www.linkedin.com/in/your-profile-here" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </picture>
+</a>
+
+# 🧩 GitHub Stats
+
+<p align="left"><img src="github-metrics.svg" /></p>
