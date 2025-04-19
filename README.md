@@ -22,6 +22,10 @@ Systems administrator learning full-stack development through Web Applications D
 
 <a href="https://www.linkedin.com/in/your-profile-here" target="_blank" rel="noreferrer">More in my LinkedIn</a>
 
+## My langs and tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,angular,ansible,proxmox,terraform,kubernetes,java)](https://skillicons.dev)
+
 ## 🧩 GitHub Stats
 
 <p align="left"><img src="github-metrics.svg" /></p>
