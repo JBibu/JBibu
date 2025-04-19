@@ -16,19 +16,12 @@ Here are some ideas to get you started:
 <p align="center"><img src="images/banner.png" width="512"/></p>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B745F7&center=true&width=435&lines=sudo+!!;refactoring+my+refactor+of+a+refactor+%F0%9F%94%A7;.%2Fmomentum.sh+--keep-going;always+under+construction+%F0%9F%9A%A7" alt="Typing SVG" /></a></p>
 
-# 💡 About Me
+## 💡 About Me
 
 Systems administrator learning full-stack development through Web Applications Development (DAW) training. I enjoy understanding how infrastructure connects with code. I like simple, stable tools that just work. I use clean configs and practical solutions in my work. When I'm not connecting dev and ops with reliable systems, I'm outside getting fresh air. Always learning, always building.
 
-<a href="https://www.linkedin.com/in/your-profile-here" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </picture>
-  More in my LinkedIn
-</a>
+<a href="https://www.linkedin.com/in/your-profile-here" target="_blank" rel="noreferrer">More in my LinkedIn</a>
 
-# 🧩 GitHub Stats
+## 🧩 GitHub Stats
 
-<p align="center"><img src="github-metrics.svg" /></p>
+<p align="left"><img src="github-metrics.svg" /></p>
