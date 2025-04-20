@@ -22,9 +22,9 @@ Systems administrator learning full-stack development through Web Applications D
 
 <a href="https://www.linkedin.com/in/your-profile-here" target="_blank" rel="noreferrer">More in my LinkedIn</a>
 
-## My langs and tools
+## 💻 My langs and tools
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,powershell,aws,azure,gcp,openstack,terraform,ansible,docker,kubernetes,prometheus,grafana,nginx,postgres,html,css,javascript,tailwind,angular,py,java,php,laravel,nodejs,git,postman,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,powershell,aws,azure,gcp,openstack,terraform,ansible,docker,kubernetes,prometheus,grafana,nginx,postgres,html,css,javascript,tailwind,angular,py,java,php,laravel,wordpress,nodejs,git,postman,electron)](https://skillicons.dev)
 
 ### Learning
 
