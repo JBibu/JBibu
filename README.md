@@ -26,7 +26,7 @@ Systems administrator learning full-stack development through Web Applications D
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,powershell,aws,azure,gcp,openstack,terraform,ansible,docker,kubernetes,prometheus,grafana,nginx,postgres,html,css,javascript,tailwind,angular,py,java,php,laravel,wordpress,nodejs,git,postman,electron)](https://skillicons.dev)
 
-### Learning
+### 📚 Learning
 
 [![My Skills](https://skillicons.dev/icons?i=rust,godot)](https://skillicons.dev)
 
