@@ -22,7 +22,7 @@ Sysadmin learning full-stack development through Web Applications Development (D
 
 Always learning.
 
-<a href="https://www.linkedin.com/in/your-profile-here" target="_blank" rel="noreferrer">More in my LinkedIn</a>
+<a href="https://www.linkedin.com/in/jbibu" target="_blank" rel="noreferrer">More in my LinkedIn</a>
 
 ## 💻 My (relevant) tools and langs
 
