@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"><img src="images/banner.png" width="512"/></p>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=316b9b&center=true&width=435&lines=cd+/home/javi;refactoring+my+refactor+of+a+refactor+%F0%9F%94%A7;.%2Fmomentum.sh+--keep-going;always+under+construction+%F0%9F%9A%A7" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2d71a8&center=true&width=435&lines=cd+/home/javi;refactoring+my+refactor+of+a+refactor+%F0%9F%94%A7;.%2Fmomentum.sh+--keep-going;always+under+construction+%F0%9F%9A%A7" alt="Typing SVG" /></a></p>
 
 ## 💡 About Me
 
