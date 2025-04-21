@@ -26,7 +26,7 @@ Always learning.
 
 ## 💻 My (relevant) tools and langs
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,powershell,aws,azure,gcp,openstack,terraform,ansible,docker,kubernetes,prometheus,grafana,nginx,postgres,html,css,javascript,tailwind,angular,py,java,php,laravel,wordpress,nodejs,git,postman,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,powershell,aws,azure,gcp,openstack,terraform,jenkins,ansible,docker,kubernetes,prometheus,grafana,nginx,postgres,html,css,javascript,tailwind,angular,py,java,php,laravel,wordpress,nodejs,postman,electron)](https://skillicons.dev)
 
 ### Learning
 
