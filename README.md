@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 💡 About Me
 
-Sysadmin learning full-stack development through Web Applications Development (DAW) training. I enjoy understanding how infrastructure connects with code. I like simple, stable tools that just work. I use clean configs and practical solutions in my work. When I'm not connecting dev and ops, I'm outside getting fresh air.
+Sysadmin learning full-stack development through Web Applications Development (DAW) training. I focus on DevOps, connecting infrastructure and code. I like simple, stable tools that just work. I use clean configs and practical solutions in my work. When I'm not connecting dev and ops, I'm outside getting fresh air.
 
 Always learning.
 
