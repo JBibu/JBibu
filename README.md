@@ -30,7 +30,7 @@ Always learning.
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=rust,godot,react,typescript,drizzle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,godot,react,drizzle,typescript)](https://skillicons.dev)
 
 ## 🧩 GitHub Stats
 
