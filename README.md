@@ -32,7 +32,7 @@ Always learning.
 
 <p align="left" style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/855448a5c231c322d16c8c068f35855cc9cc3508/assets/drizzle-auto.svg"
-       height="40" style="margin-right:8px;" />
+       height="40" style="margin-right:40px;" />
   <a href="https://skillicons.dev" style="display: inline-flex; align-items: center;">
     <img src="https://skillicons.dev/icons?i=rust,godot,react,typescript" height="40" />
   </a>
