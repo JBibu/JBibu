@@ -30,7 +30,7 @@ Always learning.
 
 ### Learning
 
-![Drizzle](https://raw.githubusercontent.com/LelouchFR/skill-icons/855448a5c231c322d16c8c068f35855cc9cc3508/assets/drizzle-auto.svg)
+![Drizzle](https://raw.githubusercontent.com/LelouchFR/skill-icons/855448a5c231c322d16c8c068f35855cc9cc3508/assets/drizzle-auto.svg =48x48)
 [![My Skills](https://skillicons.dev/icons?i=rust,godot,react,typescript)](https://skillicons.dev)
 
 ## 🧩 GitHub Stats
