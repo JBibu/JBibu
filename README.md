@@ -30,10 +30,9 @@ Always learning.
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=rust,godot,react,typescript)](https://skillicons.dev)
 <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/855448a5c231c322d16c8c068f35855cc9cc3508/assets/drizzle-auto.svg"
-     height="50"
-     style="vertical-align:middle; margin-left:50px;" />
+     height="48"/>
+[![My Skills](https://skillicons.dev/icons?i=rust,godot,react,typescript)](https://skillicons.dev)
 
 ## 🧩 GitHub Stats
 
