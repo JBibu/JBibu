@@ -26,11 +26,11 @@ Always learning.
 
 ## 💻 My (relevant) tools and langs
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,windows,bash,powershell,aws,azure,gcp,openstack,proxmox,terraform,jenkins,ansible,s3,docker,kubernetes,prometheus,grafana,nginx,postgres,html,css,javascript,tailwind,angular,py,java,php,laravel,wordpress,nodejs,postman,electron)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,windows,bash,powershell,aws,azure,gcp,openstack,proxmox,terraform,jenkins,ansible,s3,docker,kubernetes,prometheus,grafana,nginx,postgres,prisma,html,css,javascript,tailwind,angular,py,java,php,laravel,wordpress,nodejs,postman,electron)](https://skillicons.dev)
 
 ### Learning
 
-[![My Skills](https://skillicons.dev/icons?i=rust,godot,react,typescript,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,godot,react,typescript,drizzle)](https://skillicons.dev)
 
 ## 🧩 GitHub Stats
 
