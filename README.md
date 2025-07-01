@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Sysadmin and web developer currently studying Web Applications Development (DAW). I focus on building practical solutions that connect server infrastructure with web applications.
-I prefer simple, reliable tools and clean configurations. When I'm not working with servers or coding, I enjoy spending time outdoors.
+Sysadmin and web developer. I focus on building practical solutions that connect server infrastructure with web applications.
+I prefer simple, reliable tools and clean configurations. I like to keep up with the tech landscape. When I'm not working with servers or coding, I enjoy spending time outdoors.
 
 <a href="https://www.linkedin.com/in/jbibu" target="_blank" rel="noreferrer">More in my LinkedIn</a>
 
