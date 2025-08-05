@@ -36,7 +36,7 @@ I prefer simple, reliable tools and clean configurations. I like to keep up with
 
 ### DevOps
 
-[![DevOps](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,powershell,docker,kubernetes,terraform,ansible,jenkins,aws,azure,gcp,nginx,s3,prometheus,grafana)](https://skillicons.dev)
+[![DevOps](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,powershell,docker,kubernetes,terraform,ansible,jenkins,aws,azure,gcp,nginx,prometheus,grafana)](https://skillicons.dev)
 
 ### Learning
 
