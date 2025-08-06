@@ -45,4 +45,5 @@ I prefer simple, reliable tools and clean configurations. I like to keep up with
 
 ## GitHub Stats
 
+![Profile views counter](https://komarev.com/ghpvc/?username=JBibu-git&style=flat-square)
 <p align="left"><img src="github-metrics.svg" /></p>
