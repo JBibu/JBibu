@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=437aa8&center=true&width=435&lines=cd+/home/javi;refactoring+my+refactor+of+a+refactor+%F0%9F%94%A7;.%2Fmomentum.sh+--keep-going;always+under+construction+%F0%9F%9A%A7" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=437aa8&center=true&width=435&lines=cd+/home/javi;building+things+that+work;always+under+construction+%F0%9F%9A%A7" alt="Typing SVG" /></a></p>
 
 ## About Me
 
@@ -31,7 +31,7 @@ I prefer simple, reliable tools and clean configurations. I like to keep up with
 
 ### Development
 
-[![Development](https://go-skill-icons.vercel.app/api/icons?i=typescript,tailwind,react,nextjs,nestjs,nodejs,laravel,prisma,postgres,java,python,wordpress,electron)](https://skillicons.dev)
+[![Development](https://go-skill-icons.vercel.app/api/icons?i=typescript,tailwind,react,nextjs,nestjs,laravel,prisma,postgres,java,python,wordpress,electron)](https://skillicons.dev)
 
 ### DevOps
 
