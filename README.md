@@ -31,7 +31,7 @@ I prefer simple, reliable tools and clean configurations. I like to keep up with
 
 ### Development
 
-[![Development](https://go-skill-icons.vercel.app/api/icons?i=typescript,tailwind,react,nextjs,nestjs,laravel,prisma,postgres,java,python,wordpress,electron)](https://skillicons.dev)
+[![Development](https://go-skill-icons.vercel.app/api/icons?i=typescript,tailwind,react,nextjs,nestjs,laravel,prisma,postgres,java,python,electron)](https://skillicons.dev)
 
 ### DevOps
 
@@ -39,7 +39,7 @@ I prefer simple, reliable tools and clean configurations. I like to keep up with
 
 ### Learning
 
-[![Learning](https://go-skill-icons.vercel.app/api/icons?i=rust,tauri,godot,wasm,vue)](https://skillicons.dev)
+[![Learning](https://go-skill-icons.vercel.app/api/icons?i=rust,tauri,godot,wasm,vue,nuxt)](https://skillicons.dev)
 
 
 ## GitHub Stats
