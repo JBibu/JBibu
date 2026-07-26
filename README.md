@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Sysadmin and webdev. I focus on building practical solutions that connect server infrastructure with web applications.
-I prefer simple, reliable tools and clean configurations. I like to keep up with the tech landscape. When I'm not working with servers or coding, I enjoy spending time outdoors.
+Sysadmin and webdev.
+I prefer simple, reliable tools and clean configs.
 
 <br>
 <p align="center">
