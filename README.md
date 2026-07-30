@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Sysadmin and webdev.
-I prefer simple, reliable tools and clean configs.
+Web Developer & Systems Administrator specializing in Linux infrastructure and AI-driven tools. ThinkPad enthusiast.
 
 <br>
 <p align="center">
